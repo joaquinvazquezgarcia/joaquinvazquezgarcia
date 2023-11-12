@@ -1,4 +1,4 @@
-# 🦙 About Me:
+# 🙌 About Me:
 I am a passionate web developer with a solid self-taught background in JavaScript.<br>Currently, I have the privilege of being co-founder of Radix, an innovative startup specialized in web development.<br>I am proud of my approach based on simplicity and order; I spend hours simplifying and optimizing my codes, learning from experts and analyzing top creators' websites to improve my skills and understand SEO and optimization best practices.<br>
 
 
