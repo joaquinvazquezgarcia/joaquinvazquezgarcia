@@ -1,5 +1,5 @@
 # 🙌 About Me:
-A passionate web developer with a solid self-taught background in JavaScript.<br><br>
+A passionate web developer with a solid background in JavaScript.<br><br>
 
 🔭 I'm currently working on Radix-Argentina, an innovative startup specialized in web development.<br>
 ⚡ My approach is based on simplicity and order, and a Lean methodology of work.<br><br>
